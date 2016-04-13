@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.10.0",
-    "pi-gpio": "0.0.8"
+    "pi-gpio": "0.0.8",
+    "rotonde-client": "github:hackerloop/rotonde-client.js"
   }
 }
