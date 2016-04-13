@@ -1,0 +1,10 @@
+{
+  "type": "action",
+  "payload": {
+    "identifier": "GPIO_WRITE",
+    "data": {
+      "pinNumber": 11,
+      "value": 1
+    }
+  }
+}

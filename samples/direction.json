@@ -1,0 +1,10 @@
+{
+  "type": "action",
+  "payload": {
+    "identifier": "GPIO_DIRECTION",
+    "data": {
+      "pinNumber": "11",
+      "direction": "out"
+    }
+  }
+}
