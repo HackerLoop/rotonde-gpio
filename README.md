@@ -6,7 +6,10 @@ Wraps [pi-gpio](https://github.com/rakeshpai/pi-gpio).
 
 # Device compatibility
 
-- RaspberryPIs
+- original Raspberry Pi (A and B)
+- model B revision 2 boards
+- Raspberry Pi Model A+
+- Raspberry Pi Model B+
 
 # Installation
 
